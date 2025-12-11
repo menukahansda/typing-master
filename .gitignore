@@ -1,0 +1,15 @@
+backend/node_modules/
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/dataset.csv
+backend/dataset.py
+backend/model.py
+backend/train_letters.py
+
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/src/Dummy.txt
+
+
